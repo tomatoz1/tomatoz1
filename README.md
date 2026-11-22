@@ -8,13 +8,6 @@
 
 ---
 
-### 🌙 On the workbench
-
-| Project | What's inside |
-| :--- | :--- |
-| [crudeoil_mix_api](https://github.com/tomatoz1/crudeoil_mix_api) | A Python project for crude oil mixing. |
-| [Cal-TF-2000](https://github.com/tomatoz1/Cal-TF-2000) | A Python calculation tool. |
-
 ### 🐾 Around here
 
 ```text
